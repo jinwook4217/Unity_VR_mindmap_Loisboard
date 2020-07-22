@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c6e84b7a75b680242bb4543652caacb8
+timeCreated: 1500622007
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NanumBarunGothic
+  fontNames:
+  - NanumBarunGothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 09d837f5cc71e2c45a140a36eee01d40, type: 3}
+  - {fileID: 12800000, guid: 2577605c5e69ee849ab1ee1d74332599, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
